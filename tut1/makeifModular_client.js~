@@ -1,0 +1,6 @@
+"use strict";
+(function(){
+	var mymodule = require("./makeitModular_module.js");
+	
+	
+})();
